@@ -16,19 +16,12 @@ avatar: https://raw.githubusercontent.com/pradeepin2/pradeepin2/master/images/pr
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+  email:pradeepin2@gmail.com
+  facebook:https://www.facebook.com/pradeep.saraswathi/
   github: pradeepin2
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  linkedin: https://www.linkedin.com/in/pradeepsaraswathi/
+  twitter: https://twitter.com/pradeepin2
+
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
