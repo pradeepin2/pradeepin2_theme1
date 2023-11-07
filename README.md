@@ -5,4 +5,4 @@ I am Pradeep Kumar Saraswathi
 
 https://spradeep.com
 
-!\[alt text\]([path or URL to image](https://raw.githubusercontent.com/pradeepin2/pradeepin2/master/images/pradeep.png)https://raw.githubusercontent.com/pradeepin2/pradeepin2/master/images/pradeep.png)
+
