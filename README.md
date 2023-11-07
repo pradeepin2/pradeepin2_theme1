@@ -5,4 +5,4 @@ I am Pradeep Kumar Saraswathi
 
 https://spradeep.com
 
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+!\[alt text\]([path or URL to image](https://raw.githubusercontent.com/pradeepin2/pradeepin2/master/images/pradeep.png)https://raw.githubusercontent.com/pradeepin2/pradeepin2/master/images/pradeep.png)
