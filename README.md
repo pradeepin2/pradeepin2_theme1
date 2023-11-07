@@ -5,5 +5,3 @@ I am Pradeep Kumar Saraswathi
 
 https://spradeep.com
 
-
-![](https://byob.yarr.is/RubbaBoy/Example/time/dev)
